@@ -1,0 +1,5 @@
+experiments/
+outputs/
+*.npy
+.venv
+.ipynb_checkpoints
